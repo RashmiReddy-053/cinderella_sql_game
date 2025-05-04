@@ -1,3 +1,2 @@
 streamlit
 pandas
-sqlite3  # Not strictly needed since it's built-in, but harmless to include
